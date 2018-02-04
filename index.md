@@ -21,7 +21,7 @@
 
 **One of your repositories is in a “detached HEAD” state. How do you fix this?**
 
-* If one of your repositories is in a "detached HEAD" state, use the command `git checkout master` to return to the "normal HEAD" state.
+* If one of your repositories is in a "detached HEAD" state, use the command `git checkout master` to return to the master branch.
 
 **Explain the pros and cons of using Git for your research project.**
 
