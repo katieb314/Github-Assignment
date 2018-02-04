@@ -7,7 +7,7 @@
 
 **What kind of files/info should be saved in a Git repository?** 
 
-* Code and text files can be saved easily into a Git repository.
+* Code and text files should be saved in a Git repository.
 
 **What types of files/info should not be included in a Git repo?**
 
@@ -51,3 +51,4 @@
 *Cons:*
 
 * Hosting a private repository is costly
+* Sensitive data files should not be stored on public repositories
