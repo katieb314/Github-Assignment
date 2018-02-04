@@ -19,6 +19,10 @@
 * To undo a commit for a single file, you can use the `git reset HEAD <file>` command. 
 * If you modified a file and then realized you didn't actually want to make that modification, you can use the `git checkout --<file>` command. This will bring you back to your last version of that file.
 
+**One of your repositories is in a “detached HEAD” state. How do you fix this?**
+
+* If one of your repositories is in a "detached HEAD" state, use the command `git checkout master` to return to the "normal HEAD" state.
+
 **Explain the pros and cons of using Git for your research project.**
 
 *Pros:*
