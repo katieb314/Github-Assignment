@@ -15,7 +15,7 @@
 
 **What are the commands to undo a commit?**
 
-* If you have commit too early and you wished that you had added something to the file or used a different message, you can use the `git commit --amend` command. This will allow you to edit the file or edit the message and it will appear as a single commit in your `git log`.
+* If you commit too early and you wished that you had added something to the file or used a different message, you can use the `git commit --amend` command. This will allow you to edit the file or edit the message and it will appear as a single commit in your `git log`.
 * To undo a commit for a single file, you can use the `git reset HEAD <file>` command. 
 * If you modified a file and then realized you didn't actually want to make that modification, you can use the `git checkout --<file>` command. This will bring you back to your last version of that file.
 
